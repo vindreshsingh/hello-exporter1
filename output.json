@@ -6,7 +6,7 @@
         }
         ,   {
             "invoke": "hello.js",
-            "write_to": "styles/hello.js"
+            "write_to": "styles/hello.txt"
         }
     
     ]
