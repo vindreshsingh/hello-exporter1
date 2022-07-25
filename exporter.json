@@ -16,6 +16,7 @@
         "supernova": "1.0.0"
     },
     "tags": [
-        "Flutter"
+        "Flutter",
+        "JS"
     ]
 }

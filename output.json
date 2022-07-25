@@ -4,5 +4,10 @@
             "invoke": "colors.pr",
             "write_to": "styles/colors.css"
         }
+        ,   {
+            "invoke": "hello.js",
+            "write_to": "styles/hello.js"
+        }
+    
     ]
 }
