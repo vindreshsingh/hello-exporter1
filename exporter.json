@@ -9,7 +9,8 @@
     "usesBrands": true,
     "config": {
         "sources": "sources.json",
-        "output": "output.json"
+        "output": "output.json",
+        "js":"support.js"
     },
     "engines": {
         "pulsar": "1.0.0",

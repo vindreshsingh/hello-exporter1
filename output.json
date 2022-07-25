@@ -2,12 +2,9 @@
     "blueprints": [
         {
             "invoke": "colors.pr",
-            "write_to": "styles/colors.css"
+            "write_to": "styles/colors.txt"
         }
-        ,   {
-            "invoke": "hello.js",
-            "write_to": "styles/hello.txt"
-        }
+  
     
     ]
 }
