@@ -10,7 +10,7 @@
     "config": {
         "sources": "sources.json",
         "output": "output.json",
-        "js":"support.js"
+        "js":"src/hello.js"
     },
     "engines": {
         "pulsar": "1.0.0",

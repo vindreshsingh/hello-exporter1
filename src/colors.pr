@@ -1,3 +1,7 @@
-{* Export example code goes here *}
-{[ const name = "Supernova".lowercased() /]}
-{{ name }}                                     // supernova                                      // 6 written to output
+{* Export example code goes here *}  
+
+{* {[ let helloWorld= "hello world" /]} *}
+{[ const sdTree = hello(1,2) /]}
+{{ sdTree }}
+
+                                
